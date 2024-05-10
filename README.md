@@ -26,9 +26,7 @@ A collection of awesome courses, articles and resources, specifically aimed at u
 ## FDA
 
 - [Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions | FDA](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions), Final, September 27, 2023
-
 - [Select Updates for the Premarket Cybersecurity Guidance: Section 524B of the FD&C Act | FDA](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/select-updates-premarket-cybersecurity-guidance-section-524b-fdc-act), Draft, March 13, 2024
-
 - Presentation/Webinar: ["Draft Guidance ‐ Select Updates for the Premarket Cybersecurity Guidance: Section 524B of the FD&C Act"](./FDA/webinar_printable-slides_cybersecurity_select_updates_april_2024.pdf), Matthew Hazelett, FDA CDRH, April 30, 2024
 
 ---
