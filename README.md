@@ -11,8 +11,8 @@ A collection of awesome courses, articles and resources, specifically aimed at u
 - [Operations and Patient Safety for Healthcare IT Staff Course by Johns Hopkins University | Coursera](https://www.coursera.org/learn/healthcare-it-operations-patient-safety), 4 modules, 6h, Free
 - [Cybersecurity in Healthcare (Hospitals & Care Centers) Course by Erasmus University Rotterdam | Coursera](https://www.coursera.org/learn/cybersecurity-in-healthcare), 5 modules, 15h, Free
 - [TECH Med: Transdisciplinary Education for Critical Hacks of Medical Devices Course by University of Florida | Coursera](https://www.coursera.org/learn/tech-med-medical-devices), 5 modules, 8h, Free
-- [Medical Device Regulation (MDR): Intro for Device Designers | Udemy](https://www.udemy.com/course/the-medical-device-regulation-for-medical-device-designers), Udemy, 1h, Free
-- [Advanced Medical Device Development](https://www.udemy.com/course/advanced-medical-device-development), Udemy, 6h, Free
+- [Medical Device Regulation (MDR): Intro for Device Designers | Udemy](https://www.udemy.com/course/the-medical-device-regulation-for-medical-device-designers), 1h, $65
+- [Advanced Medical Device Development | Udemy](https://www.udemy.com/course/advanced-medical-device-development), 6h, $200
 
 ## Academic/University Courses
 
@@ -30,8 +30,6 @@ A collection of awesome courses, articles and resources, specifically aimed at u
 - [Select Updates for the Premarket Cybersecurity Guidance: Section 524B of the FD&C Act | FDA](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/select-updates-premarket-cybersecurity-guidance-section-524b-fdc-act), Draft, March 13, 2024
 
 - Presentation/Webinar: ["Draft Guidance ‐ Select Updates for the Premarket Cybersecurity Guidance: Section 524B of the FD&C Act"](./FDA/webinar_printable-slides_cybersecurity_select_updates_april_2024.pdf), Matthew Hazelett, FDA CDRH, April 30, 2024
-
-
 
 ---
 
@@ -66,7 +64,7 @@ This course seeks to create an informed public, aware of the technical, medical,
 
 ### Medical Device Regulation (MDR) | Udemy
 
-[Medical Device Regulation (MDR): Intro for Device Designers | Udemy](https://www.udemy.com/course/the-medical-device-regulation-for-medical-device-designers), Udemy, 1h
+[Medical Device Regulation (MDR): Intro for Device Designers](https://www.udemy.com/course/the-medical-device-regulation-for-medical-device-designers), Udemy, 1h
 
 An introduction to the EU's Medical Device Regulation (MDR):
 - The overall requirements and structure of the Medical Device Regulation (MDR)
@@ -86,7 +84,6 @@ An introduction to the EU's Medical Device Regulation (MDR):
 - Quality Systems Management, 6 lectures • 1hr 4min
 - Clinical Trials for Medical Devices, 7 lectures • 53min
 - The Product Life Cycle & Product Management, 4 lectures • 46min
-
 
 ---
 
