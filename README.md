@@ -3,7 +3,9 @@
 
 A collection of awesome courses, articles and resources, specifically aimed at understanding the regulations for medical devices and software in the US, EU, and globally. It also offers valuable insights into the design, development, and real-world implementation of medical software.
 
----
+This repository was established as a platform to share a collection of links that I’ve found both valuable and inspiring. I’m sharing them here with the hope that we can all collectively enhance our knowledge together.
+
+This project is continually evolving, and your contributions are highly appreciated. Feel free to suggest improvements or additions by creating issues or submitting pull requests. Thank you for your collaboration!
 
 ## Massive Open Online Courses (MOOC)
 
@@ -21,15 +23,11 @@ A collection of awesome courses, articles and resources, specifically aimed at u
 - [Medical Device Development | UCI DCE](https://ce.uci.edu/programs/life-sciences/medical-device-development), 9-15 months, $4,4K
 	- [Medical Device Development Program Flyer (uci.edu)](https://ce.uci.edu/uci/media/Documents/med-device-brochure.pdf)
 
----
-
 ## FDA
 
 - [Cybersecurity in Medical Devices: Quality System Considerations and Content of Premarket Submissions | FDA](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/cybersecurity-medical-devices-quality-system-considerations-and-content-premarket-submissions), Final, September 27, 2023
 - [Select Updates for the Premarket Cybersecurity Guidance: Section 524B of the FD&C Act | FDA](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/select-updates-premarket-cybersecurity-guidance-section-524b-fdc-act), Draft, March 13, 2024
 - Presentation/Webinar: ["Draft Guidance ‐ Select Updates for the Premarket Cybersecurity Guidance: Section 524B of the FD&C Act"](./FDA/webinar_printable-slides_cybersecurity_select_updates_april_2024.pdf), Matthew Hazelett, FDA CDRH, April 30, 2024
-
----
 
 ## Selected Courses Details
 
@@ -83,13 +81,9 @@ An introduction to the EU's Medical Device Regulation (MDR):
 - Clinical Trials for Medical Devices, 7 lectures • 53min
 - The Product Life Cycle & Product Management, 4 lectures • 46min
 
----
-
 ## Support
 
 The source code of the project is provided on "as is" terms with no warranty (see license for more information). Do not file Github issues with generic support requests.
-
----
 
 ## License
 
