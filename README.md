@@ -1,7 +1,9 @@
 
 # Awesome Medical Device and Software Development
 
-A collection of awesome courses, articles and resources, specifically aimed at understanding the regulations for medical devices and software in the US, EU, and globally. It also offers valuable insights into the design, development, and real-world implementation of medical software.
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of [awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md) courses, articles and resources, specifically aimed at understanding the regulations for medical devices and software in the US, EU, and globally. It also offers valuable insights into the design, development, and real-world implementation of medical software.
 
 This repository was established as a platform to share a collection of links that I’ve found both valuable and inspiring. I’m sharing them here with the hope that we can all collectively enhance our knowledge together.
 
