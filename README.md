@@ -35,28 +35,28 @@ This project is continually evolving, and your contributions are highly apprecia
 
 ### Introduction to Medical Software Course by Yale University | Coursera
 
-[Introduction to Medical Software Course by Yale University | Coursera](https://www.coursera.org/learn/introduction-to-medical-software),  14 modules, 37 h, Free
+[Introduction to Medical Software Course by Yale University | Coursera](https://www.coursera.org/learn/introduction-to-medical-software),  14 modules, 37h, Free
 
-- Module 2: Medical Software Regulation (FDA and IMDRF), 2 h
-- Module 3: The Healthcare Environment (EHR, PACS, Data Privacy, and Cybersecurity), 3 h
-- Module 4: Quality and Risk Management, 2 h
-- Module 6: User Needs &amp; System Requirements, 1 h
-- Module 7: Software Architecture Design and Usability Engineering, 3 h
+- Module 2: Medical Software Regulation (FDA and IMDRF), 2h
+- Module 3: The Healthcare Environment (EHR, PACS, Data Privacy, and Cybersecurity), 3h
+- Module 4: Quality and Risk Management, 2h
+- Module 6: User Needs &amp; System Requirements, 1h
+- Module 7: Software Architecture Design and Usability Engineering, 3h
 	- A Template for the Software Design Document (SDD)
-- Module 10: Software Validation, Deployment, Maintenance and Retirement, 2 h
+- Module 10: Software Validation, Deployment, Maintenance and Retirement, 2h
 
 ### Cybersecurity in Healthcare (Hospitals) | Erasmus University Rotterdam | Coursera
 
-[Cybersecurity in Healthcare (Hospitals & Care Centers) Course by Erasmus University Rotterdam | Coursera](https://www.coursera.org/learn/cybersecurity-in-healthcare), 5 modules, 15 h, Free
-- Cybersecurity in healthcare: technology, data, and human behavior, Module 1, 2 h
-- Social aspects of cybersecurity: social engineering and social media, Module 2, 2 h
-- Data breaches, hackers, and malware in healthcare, Module 3, 3 h
-- Cyber hygiene: practices to improve cybersecurity, Module 4, 3 h
-- Security culture: creating positive environment to practice cybersecurity, Module 5, 3 h
+[Cybersecurity in Healthcare (Hospitals & Care Centers) Course by Erasmus University Rotterdam | Coursera](https://www.coursera.org/learn/cybersecurity-in-healthcare), 5 modules, 15h, Free
+- Cybersecurity in healthcare: technology, data, and human behavior, Module 1, 2h
+- Social aspects of cybersecurity: social engineering and social media, Module 2, 2h
+- Data breaches, hackers, and malware in healthcare, Module 3, 3h
+- Cyber hygiene: practices to improve cybersecurity, Module 4, 3h
+- Security culture: creating positive environment to practice cybersecurity, Module 5, 3h
 
 ### Transdisciplinary Education for Critical Hacks of Medical Devices | Coursera
 
-[TECH Med: Transdisciplinary Education for Critical Hacks of Medical Devices Course by University of Florida | Coursera](https://www.coursera.org/learn/tech-med-medical-devices), 5 modules, 8 h, Free
+[TECH Med: Transdisciplinary Education for Critical Hacks of Medical Devices Course by University of Florida | Coursera](https://www.coursera.org/learn/tech-med-medical-devices), 5 modules, 8h, Free
 
 This course seeks to create an informed public, aware of the technical, medical, legal, and ethical issues associated with implantable medical devices. The course features conversations with experts from a variety of relevant fields to discuss the present and future technological, ethical, legal, and social challenges associated with implantable medical devices.
 
